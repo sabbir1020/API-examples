@@ -1,0 +1,18 @@
+.country-datails{
+    text-align: center;
+}
+
+#countries{
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+  }
+  
+  .country{
+    border:2px solid sandybrown;
+    margin:10px;
+    padding: 20px;
+}
+.center{
+    text-align: center;
+    color:blue;
+}
